@@ -4,38 +4,41 @@ permalink: /publications/index.html
 title: Publications
 ---
 <style>
-/* === 图片网格系统 === */
+/* === 纵向图片优化版 === */
 .img-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    gap: 1.2rem;
-    margin: 1.5rem 0;
-    padding: 0.8rem;
-    background-color: #f8f9fa;
-    border-radius: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); /* 缩小最小列宽 */
+    gap: 1rem;
+    margin: 1.5rem -0.8rem; /* 负边距补偿 */
 }
 
 .img-grid img {
-    width: 200%;
-    height: 250px;
-    object-fit: cover;
+    width: 100%;
+    height: 320px; /* 增加高度适应竖图 */
+    object-fit: contain; /* 改为contain完整显示 */
+    object-position: center top; /* 顶部对齐 */
     border-radius: 6px;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.16);
-    transition: transform 0.3s ease;
+    background: #fff; /* 添加白色背景 */
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+    padding: 4px; /* 留白 */
 }
 
-.img-grid img:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+/* 创建竖图专用类 */
+.img-grid.vertical {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+.img-grid.vertical img {
+    height: 280px;
+    object-position: contain;
 }
 
+/* 响应式调整 */
 @media (max-width: 768px) {
     .img-grid {
-        grid-template-columns: 1fr;
-        gap: 1rem;
+        margin: 1rem -0.5rem;
     }
     .img-grid img {
-        height: 160px;
+        height: 280px;
     }
 }
 </style>
@@ -64,7 +67,7 @@ None
   *Python for Graduate Research course project*  
   **Zongheng Li** (Advised by: [Mingming Li](https://search.asu.edu/profile/1558323))  
   Arizona State University, April 2024
-  <div class="img-grid">
+  <div class="img-grid vertical">
     <img src="/images/ses494personal.jpg">
   </div>
 
@@ -72,21 +75,23 @@ None
   *Geophysics course design*  
   **Zongheng Li** (Advised by: [Edward Garnero](https://search.asu.edu/profile/216280))  
   Arizona State University, December 2024
-  <div class="img-grid">
+  <div class="img-grid vertical">
     <img src="/images/Aeromagnetic2.jpg">
     <img src="/images/Bouguer2.jpg">
     <img src="/images/EQstatistics.jpg">
   </div>
+*all of data used in this research were obtained from USGS
 
 - Simulation of Sub-Plinian Eruption of La Fossa Cone   
   *Geohazards of Mediterranean course design.*  
   **Zongheng Li** (Advised by: [Amanda Clarke](https://search.asu.edu/profile/499877))  
   Sicily, Italy, June 2024
   
-  <div class="img-grid">
+  <div class="img-grid vertical">
     <img src="/images/ash.jpg">
     <img src="/images/pumice.jpg">
   </div>
+
 
 ---
 

@@ -7,7 +7,7 @@ title: Publications
 /* === 图片网格系统 === */
 .img-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     gap: 1.2rem;
     margin: 1.5rem 0;
     padding: 0.8rem;
@@ -17,7 +17,7 @@ title: Publications
 
 .img-grid img {
     width: 100%;
-    height: 200px;
+    height: 300px;
     object-fit: cover;
     border-radius: 6px;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16);
@@ -40,7 +40,7 @@ title: Publications
 }
 </style>
 
-> (†: equal contribution, ~: corresponding author)
+(†: equal contribution, ~: corresponding author)
 
 ## Working Paper
 

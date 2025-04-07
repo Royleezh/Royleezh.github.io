@@ -16,8 +16,8 @@ title: Publications
 }
 
 .img-grid img {
-    width: 100%;
-    height: 300px;
+    width: 200%;
+    height: 250px;
     object-fit: cover;
     border-radius: 6px;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16);
@@ -75,7 +75,7 @@ None
   <div class="img-grid">
     <img src="/images/Aeromagnetic2.jpg">
     <img src="/images/Bouguer2.jpg">
-    <img src="/images/eq_statistics.jpg">
+    <img src="/images/EQstatistics.jpg">
   </div>
 
 - Simulation of Sub-Plinian Eruption of La Fossa Cone   

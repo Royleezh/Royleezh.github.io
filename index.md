@@ -6,8 +6,7 @@ layout: page
 
 <img src="https://Royleezh.github.io/pfp2.jpg" class="floatpic">
 
-Here is **Zongheng Li (李宗恒)**.<br>
-Pronouns: He/him/his
+Here is **Zongheng Li (李宗恒)**.<br> Pronouns: He/him/his
 
 I am currently a senior undergraduate student in the School of Earth and Space Exploration at Arizona State University, where I developed strong foundations in geology. This fall (September 2025), I will embark on my graduate journey by pursuing a Master of Science in Geotechnical Engineering at the University of Washington, Seattle, aiming to deepen my expertise in engineering geology.
 

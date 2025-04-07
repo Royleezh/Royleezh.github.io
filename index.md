@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://ZonghengLi.com/pfp2.jpg" class="floatpic">
+<img src="https://Royleezh.github.io/pfp2.jpg" class="floatpic">
 
 Here is **Zongheng Li (李宗恒)**.<br>
 

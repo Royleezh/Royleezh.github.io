@@ -7,10 +7,10 @@ url: https://royleezh.github.io/
 # Owner/author information
 owner:
   name: Zongheng Li
-  avatar: pfp.jpg
+  avatar: pfp2.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: zongheng0205@outlook.com
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv: 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: Royleezh
   linkedin: zongheng-li-27366929a
@@ -38,14 +38,10 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
   - title: Hobbies
     url: /hobbies/
   # - title: Startups
     # url: /startups/
-  - title: Blogs
-    url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing

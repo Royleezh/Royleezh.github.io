@@ -82,7 +82,7 @@ None
     <img src="/images/EQstatistics.jpg">
   </div>
 *All data used in this research were obtained from USGS<br>
-*Original code:[example 1](https://Royleezh.github.io/file/4Diagrams.pdf)&[example 2](https://Royleezh.github.io/file/MagneticData.pdf)
+*Original code:[example 1](https://Royleezh.github.io/file/Diagrams.pdf)&[example 2](https://Royleezh.github.io/file/MagneticData.pdf)
 
 - Simulation of Sub-Plinian Eruption of La Fossa Cone   
   *Geohazards of Mediterranean course design.*  

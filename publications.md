@@ -63,8 +63,8 @@ None
 
 ## Early Project
 
-- [Big data processing on relationship between the number of earthquakes and the elevation using an earthquake catalog containing 25,000 events with a magnitude >5.0 since year 2007](https://Royleezh.github.io/file/process.pdf) 
-  *Python for Graduate Research course project*  
+- [Big data processing on relationship between the number of earthquakes and the elevation using an earthquake catalog containing 25,000 events with a magnitude >5.0 since year 2007](https://Royleezh.github.io/file/process.pdf)<br> 
+  *Python for research course project*  
   **Zongheng Li** (Advised by: [Mingming Li](https://search.asu.edu/profile/1558323))  
   Arizona State University, April 2024
   <div class="img-grid vertical">
@@ -91,7 +91,7 @@ None
     <img src="/images/ash.jpg">
     <img src="/images/pumice.jpg">
   </div>
-*Simulated diffusion path of ash and pumice， respectively.
+*Simulated diffusion path of ash and pumice, respectively.
 
 ---
 

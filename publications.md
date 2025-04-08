@@ -63,7 +63,7 @@ None
 
 ## Early Project
 
-- [Big data processing on relationship between the number of earthquakes and the elevation using an earthquake catalog containing 25,000 events with a magnitude >5.0 since year 2007](https://Royleezh.github.io/file/process.pdf)<br> 
+- Big data processing on relationship between the number of earthquakes and the elevation using an earthquake catalog containing 25,000 events with a magnitude >5.0 since year 2007<br> 
   *Python for research course project*  
   **Zongheng Li** (Advised by: [Mingming Li](https://search.asu.edu/profile/1558323))  
   Arizona State University, April 2024

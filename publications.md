@@ -54,7 +54,7 @@ None
 
 ## Conference Paper
 
-- [Optimization Analysis on Seismic Mitigation of Building Foundation in Coastal Area](https://iopscience.iop.org/article/10.1088/1742-6596/2386/1/012055)<br>**Zongheng Li**~<br>The International Conference on Computing Innovation and Applied Physics ([CONF-CIAP 2022](https://2022.confciap.org/)). August, 2022.
+- [Optimization Analysis on Seismic Mitigation of Building Foundation in Coastal Area](https://iopscience.iop.org/article/10.1088/1742-6596/2386/1/012055)<br>**Zongheng Li**<br>The International Conference on Computing Innovation and Applied Physics ([CONF-CIAP 2022](https://2022.confciap.org/)). August, 2022.
 
 <br>
 
@@ -70,6 +70,28 @@ None
   <div class="img-grid vertical">
     <img src="/images/ses494personal.jpg">
   </div>
+%%{init: {'theme': 'neutral', 'themeVariables': { 'primaryColor': '#f5f5f5'}}}%%
+flowchart TD
+    A[Import numpy/pandas] --> B[Load Large_Eq.csv]
+    B --> C[Process coordinates]
+    C -->|Round to integer| D[Create LL_csv]
+    D --> E{Longitude check}
+    E -->|lon < 0| F[West data (W_LL_csv)]
+    E -->|lon > 0| G[East data (E_LL_csv)]
+    E -->|lon == 0| H[Prime Meridian (PM_LL_csv)]
+    
+    I[Load topo.dat] --> J{Longitude split}
+    J -->|lon < 180| K[East terrain (E_LL_dat)]
+    J -->|lon >= 180| L[West terrain (W_LL_dat)]
+    
+    F --> M[Adjust West longitude (+360)]
+    M --> N[Merge West data]
+    G --> O[Merge East data]
+    H --> P[Merge PM data]
+    
+    N & O & P --> Q[Combine datasets]
+    Q --> R[Calculate elevation intervals]
+    R --> S[Plot histogram]
 
 - Comparative Analysis of Geophysical Characteristics of Major Regions in the Phoenix Metropolitan Area  
   *Geophysics course design*  
@@ -80,7 +102,7 @@ None
     <img src="/images/Bouguer2.jpg">
     <img src="/images/EQstatistics.jpg">
   </div>
-*all of data used in this research were obtained from USGS
+*All data used in this research were obtained from USGS
 
 - Simulation of Sub-Plinian Eruption of La Fossa Cone   
   *Geohazards of Mediterranean course design.*  
@@ -91,7 +113,7 @@ None
     <img src="/images/ash.jpg">
     <img src="/images/pumice.jpg">
   </div>
-
+*Simulated diffusion path of ash and pumice， respectively.
 
 ---
 

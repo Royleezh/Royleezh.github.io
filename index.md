@@ -30,9 +30,9 @@ My current research focuses on developing climate-resilient biogeotechnical solu
 
 ## News and Updates
 
-- **Mar 2025：**Honored and excited to be admitted to the MS program in Civil and Environmental Engineering department at UW, Seattle!!
-- **Feb 2025：**Very excited to get MS offer from Civil and Environmental Engineering department at UC, Berkeley!!
-- **Jun 2025：**Thrilled to receive my first MS offer from the Civil and Environmental Engineering department at Colorado School of Mines!
+- **Mar 2025：**Honored and excited to be admitted to the MS program in Civil and Environmental Engineering department at UW, Seattle!🎉
+- **Feb 2025：**Very excited to get MS offer from Civil and Environmental Engineering department at UC, Berkeley!🎉
+- **Jan 2025：**Thrilled to receive my first MS offer from the Civil and Environmental Engineering department at Colorado School of Mines!🎉
 - **Jun 2024：**Honored to be supervised by Professor [Amanda Clarke](https://search.asu.edu/profile/499877) on my independent research of simulation of Sub-Plinian eruption of La Fossa Cone  
 - **Feb 2022：**Start my research program on seismic mitigation of foundations in coastal areas of China.
 <br>

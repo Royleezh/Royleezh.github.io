@@ -63,35 +63,13 @@ None
 
 ## Early Project
 
-- Big data processing on relationship between the number of earthquakes and the elevation using an earthquake catalog containing 25,000 events with a magnitude >5.0 since year 2007  
+- [Big data processing on relationship between the number of earthquakes and the elevation using an earthquake catalog containing 25,000 events with a magnitude >5.0 since year 2007](https://Royleezh.github.io/file/process.pdf) 
   *Python for Graduate Research course project*  
   **Zongheng Li** (Advised by: [Mingming Li](https://search.asu.edu/profile/1558323))  
   Arizona State University, April 2024
   <div class="img-grid vertical">
     <img src="/images/ses494personal.jpg">
   </div>
-%%{init: {'theme': 'neutral', 'themeVariables': { 'primaryColor': '#f5f5f5'}}}%%
-flowchart TD
-    A[Import numpy/pandas] --> B[Load Large_Eq.csv]
-    B --> C[Process coordinates]
-    C -->|Round to integer| D[Create LL_csv]
-    D --> E{Longitude check}
-    E -->|lon < 0| F[West data (W_LL_csv)]
-    E -->|lon > 0| G[East data (E_LL_csv)]
-    E -->|lon == 0| H[Prime Meridian (PM_LL_csv)]
-    
-    I[Load topo.dat] --> J{Longitude split}
-    J -->|lon < 180| K[East terrain (E_LL_dat)]
-    J -->|lon >= 180| L[West terrain (W_LL_dat)]
-    
-    F --> M[Adjust West longitude (+360)]
-    M --> N[Merge West data]
-    G --> O[Merge East data]
-    H --> P[Merge PM data]
-    
-    N & O & P --> Q[Combine datasets]
-    Q --> R[Calculate elevation intervals]
-    R --> S[Plot histogram]
 
 - Comparative Analysis of Geophysical Characteristics of Major Regions in the Phoenix Metropolitan Area  
   *Geophysics course design*  

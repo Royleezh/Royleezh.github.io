@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: Feb 2025
+> Update: April 2025
 
 ## Dean’s List
 
@@ -13,5 +13,7 @@ title: Awards
 - [Fall 2023](https://Royleezh.github.io/file/23Fall.pdf)
 - [Spring 2023](https://Royleezh.github.io/file/23Spring.pdf)
 
+## Scholarships
+- [Geology Field Scholarship](https://Royleezh.github.io/file/FieldCampAward_Li_Sum2025.pdf)
 
 <br>

@@ -10,7 +10,14 @@ Here is **Zongheng Li (李宗恒)**.<br>
 
 I am currently a senior undergraduate student in the School of Earth and Space Exploration at Arizona State University, where I developed strong foundations in geology. This fall (September 2025), I will embark on my graduate journey by pursuing a Master of Science in Geotechnical Engineering at the University of Washington, Seattle, aiming to deepen my expertise in engineering geology. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - zongheng0205 [at] outlook.com
 
-**<font color="#990000">I am now working as an undergraduate researcher in Professor Tao's [BIG lab](https://juliantao.github.io/big/) at ASU, studying bio-inspired self-burrowing robots</font>**
+<span style="color:#990000">
+I am now working as an undergraduate researcher in Professor Tao's
+</span> 
+[BIG lab](https://juliantao.github.io/big/) 
+<span style="color:#990000">
+at ASU, studying bio-inspired self-burrowing robots.
+</span>
+
 
 ---
 

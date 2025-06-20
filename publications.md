@@ -81,7 +81,7 @@ None
     <img src="/images/Bouguer2.jpg">
     <img src="/images/EQstatistics.jpg">
   </div>
-*All data used in this research were obtained from USGS<br>
+*All data come from USGS and reprocessed by using Jupyter Notebook<br>
 *Original code:[example 1](https://Royleezh.github.io/file/Diagrams.pdf)&[example 2](https://Royleezh.github.io/file/MagneticData.pdf)
 
 - Simulation of Sub-Plinian Eruption of La Fossa Cone   

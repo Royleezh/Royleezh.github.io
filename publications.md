@@ -70,7 +70,6 @@ None
   <div class="img-grid vertical">
     <img src="/images/ses494personal.jpg">
   </div>
-*[Code example](https://Royleezh.github.io/file/ses494.pdf)
 
 - Comparative Analysis of Geophysical Characteristics of Major Regions in the Phoenix Metropolitan Area  
   *Geophysics course design*  
@@ -82,7 +81,6 @@ None
     <img src="/images/EQstatistics.jpg">
   </div>
 *All data come from USGS and reprocessed by using Jupyter Notebook<br>
-*Original code:[example 1](https://Royleezh.github.io/file/Diagrams.pdf)&[example 2](https://Royleezh.github.io/file/MagneticData.pdf)
 
 - Simulation of Sub-Plinian Eruption of La Fossa Cone   
   *Geohazards of Mediterranean course design.*  

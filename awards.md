@@ -16,5 +16,5 @@ title: Awards
 
 ## Scholarships
 - [Field Geology Scholarship](https://Royleezh.github.io/file/FieldCampAward_Li_Sum2025.pdf)
-- [Graduate Fellowship, Department of Civil and Environmental Engineering, University of Washington](https://Royleezh.github.io/file/GeotechFellowship.pdf)
+- [William L. Shannon Endowed Fellowship](https://Royleezh.github.io/file/GeotechFellowship.pdf)
 <br>

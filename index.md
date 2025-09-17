@@ -8,25 +8,21 @@ layout: page
 
 Here is **Zongheng Li (李宗恒)**.<br>
 
-I am currently a senior undergraduate student in the School of Earth and Space Exploration at Arizona State University, where I developed strong foundations in geology. This fall (September 2025), I will embark on my graduate journey by pursuing a Master of Science in Geotechnical Engineering at the University of Washington, Seattle, aiming to deepen my expertise in engineering geology. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - zongheng0205 [at] outlook.com
+I am currently a senior undergraduate student in the School of Earth and Space Exploration at Arizona State University, where I developed strong foundations in geology. This fall (September 2025), I will embark on my graduate journey by pursuing a Master of Science in Geotechnical Engineering at the University of Washington, Seattle. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - zongheng0205 [at] outlook.com
 
 <span style="color:#990000">
-I am now working as an undergraduate researcher in Professor Tao's
+I am currently seeking potential graduate research assistant opportunities
 </span> 
-[BIG lab](https://juliantao.github.io/big/) 
 <span style="color:#990000">
-at ASU, studying bio-inspired self-burrowing robots.
+in the field of MICP and related geotechnical applications.
 </span>
-
 
 ---
 
 ## Research Interests
 
-- Geotechnical engineering
 - Soil behavior, mechanics and improvement
-- Rock mechanics
-- Structural geology
+- Biogeotechnical engineering
 - Geological hazards assessment and mitigation
 
 My current research focuses on developing climate-resilient biogeotechnical solutions for landslide mitigation, with an emphasis on bridging bio-mediated soil stabilization mechanisms with real-world engineering applications. Specifically, I'm interested in analysis of fracture network formation behavior and multi-factor coupled response in bio-mediated soil improvement and feasibility study on bio-mediated soil improvement techniques for slope stabilization under multi-climate scenarios.
@@ -34,6 +30,7 @@ My current research focuses on developing climate-resilient biogeotechnical solu
 ---
 
 ## News and Updates
+- **Aug 2025: **Honored to be advised by Professor [Juliang Tao](https://search.asu.edu/profile/3333500) at ASU on my summer research about bio-inspired self-burrowing robots. 
 - **Jun 2025：**Finished my undergraduate capstone course.
 - **Mar 2025：**Honored and excited to be admitted to the MS program in Civil and Environmental Engineering department at UW, Seattle!🎉
 - **Feb 2025：**Very excited to get MS offer from Civil and Environmental Engineering department at UC, Berkeley!🎉
